@@ -1,0 +1,6 @@
+﻿------ Discover test started ------
+Cannot discover test extensions installed by NuGet. The NuGet service is not available. Tests may not be found due to missing test adapter extensions.
+========== Discover test finished: 11 found (0:00:00.1676915) ==========
+------ Run test started ------
+Cannot discover test extensions installed by NuGet. The NuGet service is not available. Tests may not be found due to missing test adapter extensions.
+========== Run test finished: 11 run (0:00:01.6135743) ==========
